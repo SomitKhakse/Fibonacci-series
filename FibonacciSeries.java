@@ -7,10 +7,6 @@ package fibonacciseries;
 
 import java.util.Scanner;
 
-/**
- *
- * @author M N Khakse
- */
 public class FibonacciSeries {
 
     /**
